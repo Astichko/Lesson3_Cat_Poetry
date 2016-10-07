@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson3</string>
+    <string name="poetry_name">Кот программиста</string>
+    <string name="tap">TAP!</string>
+</resources>
